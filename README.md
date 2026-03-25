@@ -17,7 +17,7 @@ A simple and practical Python course designed for absolute beginners. This cours
 
 ## Course Modules
 
-### [Module 1: Introduction to Python](module1-python-basics.md)
+### [Module 1: Introduction to Python](module1)
 Learn how to run Python and write your first program.
 
 ---
