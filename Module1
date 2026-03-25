@@ -1,0 +1,28 @@
+# Module 1: Introduction to Python 🐍
+
+## What is Python?
+Python is a simple and powerful programming language used in data analysis, automation, and bioinformatics.
+
+---
+
+## Running Python
+
+```bash
+python
+```
+
+---
+
+## First Program
+
+```python
+print("Hello, World!")
+```
+
+---
+
+## Practice
+
+```python
+print("My first Python program")
+```
