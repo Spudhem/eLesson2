@@ -63,8 +63,8 @@ Work with inputs from the command line.
 ## How to Use
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Spudhem/eLesson2.git
+cd eLesson2
 ```
 
 Start from **Module 1** and follow in order.
@@ -89,4 +89,4 @@ Bioinformatics | Genomics | AI
 
 ## Support
 
-If you find this useful, please ⭐ the repository.
+If you find this useful, please the repository.
