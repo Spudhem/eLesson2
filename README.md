@@ -2,12 +2,17 @@
   <img src="icarlogo.png" width="140"/>
 </p>
 
-<h1 align="center">Python for Beginners</h1>
+<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics</h1>
 
 <p align="center">
-  A simple and practical Python course designed for absolute beginners.<br>
-  Covers basic programming concepts step-by-step with easy examples.
+  <b>Hemant B Kardile (PhD)</b><br>
+  <i>ICAR-CPRI, Shimla</i>
 </p>
+
+---
+
+## 2. Python for Bioinformatics  
+A Basic and practical Python course to get going with Python
 
 ---
 
