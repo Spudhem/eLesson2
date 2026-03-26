@@ -1,6 +1,13 @@
-# Python for Beginners
+<p align="center">
+  <img src="icarlogo.png" width="140"/>
+</p>
 
-A simple and practical Python course designed for absolute beginners. This course covers basic programming concepts step-by-step with easy examples.
+<h1 align="center">Python for Beginners</h1>
+
+<p align="center">
+  A simple and practical Python course designed for absolute beginners.<br>
+  Covers basic programming concepts step-by-step with easy examples.
+</p>
 
 ---
 
@@ -12,6 +19,7 @@ A simple and practical Python course designed for absolute beginners. This cours
 - Conditions (if-else)  
 - Loops  
 - File Handling  
+- Command Line Arguments  
 
 ---
 
@@ -22,28 +30,33 @@ Learn how to run Python and write your first program.
 
 ---
 
-### [Module 2: Variables](module2-control-flow.md)
+### [Module 2: Variables](notes2.md)
 Understand how to store and use data.
 
 ---
 
-### [Module 3: Basic Operations](module3-functions.md)
+### [Module 3: Basic Operations](notes3.md)
 Perform arithmetic operations in Python.
 
 ---
 
-### [Module 4: Conditions](module4-file-handling.md)
+### [Module 4: Conditions](notes4.md)
 Learn decision making using if-else.
 
 ---
 
-### [Module 5: Loops](module5-libraries.md)
+### [Module 5: Loops](notes5.md)
 Repeat tasks using loops.
 
 ---
 
-### [Module 6: File Handling](module6-bioinformatics.md)
+### [Module 6: File Handling](notes6.md)
 Read and write files using Python.
+
+---
+
+### [Module 7: Command Line Arguments (sys.argv)](notes7.md)
+Work with inputs from the command line.
 
 ---
 
@@ -76,4 +89,4 @@ Bioinformatics | Genomics | AI
 
 ## Support
 
-If you find this useful, please the repository.
+If you find this useful, please ⭐ the repository.
